@@ -270,7 +270,7 @@ textarea {
 
     object-position: center top;
 }
-
+.hero-photo {
     display: flex;
     align-items: center;
     justify-content: center;

@@ -37,8 +37,8 @@ portfolio/
 ├── script.js
 ├── README.md
 │
-└── assets/
-    └── profile.jpg
+└── images/
+    └── eu.jpeg
 ```
 
 ### `index.html`
@@ -83,7 +83,7 @@ Entre elas estão:
 * Validação básica e mensagem do formulário;
 * Atualização automática do ano no rodapé.
 
-### `assets/profile.jpg`
+### `images/eu.jpeg`
 
 Imagem utilizada na seção inicial do portfólio.
 
